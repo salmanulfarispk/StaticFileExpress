@@ -24,8 +24,8 @@ switch (items) {
     case "watches": res.send("shown all watches items")
     break;
 
-case "headphones":res.send("shown all headphones items")
- break;
+   case "headphones":res.send("shown all headphones items")
+   break;
 
     default: res.send("All products")
         break;
